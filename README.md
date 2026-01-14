@@ -55,12 +55,19 @@ Every expert was once a beginner — the goal is to improve a little every day.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on: Building my first portfolio website and small automation projects.
+
+🌱 I’m currently learning: HTML, JavaScript, Python, PHP, C, and C++.
+
+👯 I’m looking to collaborate on: Beginner-friendly open source projects, web tools, and scripting.
+
+🤔 I’m looking for help with: Project ideas, portfolio building, and improving my developer workflow.
+
+💬 Ask me about: Learning to code from scratch, IT support background, and troubleshooting.
+
+📫 How to reach me: Contact through GitHub for now (email coming soon).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Every day I try to learn something new, even if it's small — consistency beats speed.
 
