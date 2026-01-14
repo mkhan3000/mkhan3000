@@ -37,6 +37,6 @@ Folder Guide
 /tools — Overview of the tools and systems I’ve used
 Contact
 
-LinkedIn: https://www.linkedin.com/in/yourprofile
-Email: your@email.com
-Location: City, State (Remote capable)
+LinkedIn: https://www.linkedin.com/in/mohammedkhan3000/
+Email: khanmohammed.3000@gmail.com
+Location: Orlando, FL (Remote capable)
