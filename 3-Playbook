@@ -1,0 +1,16 @@
+# Printer Troubleshooting Playbook
+
+## Symptoms
+- Printer shows offline
+- Jobs stuck in queue
+- User cannot print to network printer
+
+## Checklist
+✔ Verify power & network cables  
+✔ Check device IP and ping printer  
+✔ Confirm printer is set as default  
+✔ Restart Print Spooler service  
+✔ Clear pending print jobs  
+✔ Reinstall or update drivers  
+
+## Commands (Windows)

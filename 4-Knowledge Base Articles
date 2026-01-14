@@ -1,0 +1,18 @@
+# KB: Reset Microsoft Teams Cache (Windows)
+
+## Purpose
+Resolves login, sync, and UI issues in Microsoft Teams.
+
+## Steps
+1. Fully quit Teams
+2. Navigate to:
+   `%appdata%\Microsoft\Teams`
+3. Delete cache folder contents
+4. Reopen Teams and sign in
+
+## Expected Result
+Teams loads fresh data and resolves common issues.
+
+## Applies To
+- Windows 10 / 11
+- Desktop Teams app
