@@ -1,37 +1,26 @@
-README.MD
-# Mohammed Khan — Support Portfolio
+# Case Study: VPN Connection Failure (Simulated)
 
-## About Me
-Remote Product Support Technician with experience supporting enterprise users, resolving Tier 1 technical issues, documenting cases, and managing tickets. Strong in troubleshooting, escalation workflows, and customer communication.
+**Environment:** Windows 10, Corporate VPN  
+**User Report:** User unable to connect to VPN from home  
+**Symptoms:** VPN client stuck on "Negotiating..."  
+**Tools Used:** Teams, JIRA, Event Viewer
 
-## Portfolio Overview
-This portfolio demonstrates my support-oriented skills through:
-- Realistic troubleshooting case studies
-- Ticketing and escalation documentation
-- Troubleshooting playbooks and checklists
-- Knowledge base style how-to articles
-- Tools and technologies I’ve used
+## Steps Taken
+1. Verified network connectivity (ping 8.8.8.8)
+2. Checked DNS resolution (nslookup company-domain.com)
+3. Restarted VPN client process
+4. Cleared cached credentials
+5. Checked Windows Event Viewer logs
+6. Escalated to network team with captured logs
 
-## Skills & Tools
-**Technical**
-- Windows & macOS troubleshooting
-- Ticketing systems (JIRA)
-- Remote support tools (Teams, Zoom)
-- Authentication & permissions troubleshooting
+## Root Cause (After Escalation)
+Expired certificate causing authentication failure.
 
-**Soft Skills**
+## Result
+User successfully connected after certificate update. Total resolution time ~45 minutes.
+
+## Skills Demonstrated
+- Remote troubleshooting
+- Documentation & escalation
+- Windows networking basics
 - Customer communication
-- Case documentation
-- De-escalation
-- Time & priority management
-
-## Folder Guide
-- `/case-studies` — Simulated support scenarios with problem → action → result
-- `/playbooks` — Troubleshooting guides and workflows
-- `/kb-articles` — Short how-to support articles
-- `/tools` — Overview of the tools and systems I’ve used
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Email: your@email.com
-- Location: City, State (Remote capable)
