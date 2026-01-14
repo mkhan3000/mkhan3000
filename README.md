@@ -2,7 +2,7 @@
 
 Aspiring IT professional and self-taught developer focused on building skills that translate into real projects and better opportunities. Currently learning **HTML, JavaScript, Python, C, C++, and PHP** with an interest in automation, support engineering, and web development.
 
----
+
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ Aspiring IT professional and self-taught developer focused on building skills th
 - 🔧 Interested in: **Web Development**, **Automation**, **IT Support Engineering**
 - 🎯 Goal: Build a strong project portfolio that demonstrates real problem-solving skills
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -26,7 +26,7 @@ Aspiring IT professional and self-taught developer focused on building skills th
 - VS Code
 - Windows / Linux environments
 
----
+
 
 ## 📂 Projects (In Progress)
 
@@ -39,18 +39,18 @@ Aspiring IT professional and self-taught developer focused on building skills th
 
 Stay tuned — updates coming soon!
 
----
+
 
 ## 📫 Connect With Me
 
 GitHub: [github.com/mkhan3000](https://github.com/mkhan3000)
 
----
+
 
 ### ⚡ Fun Fact
 
 Every expert was once a beginner — the goal is to improve a little every day.
-<!--
+
 **mkhan3000/mkhan3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
